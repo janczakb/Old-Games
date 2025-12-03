@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?><xliff version='1.0' xml:lang='en'><file datatype='plaintext' original='localization_global.fla' source-language='EN'><header></header><body><trans-unit id='001'  resname='IDS_GAME_OVER'><source>Try again</source></trans-unit>
+<trans-unit id='002'  resname='IDS_RETRY'><source>RETRY</source></trans-unit>
+<trans-unit id='003'  resname='IDS_EASY'><source>EASY</source></trans-unit>
+<trans-unit id='004'  resname='IDS_HARD'><source>HARD</source></trans-unit>
+<trans-unit id='005'  resname='IDS_LOADING'><source>LOADING</source></trans-unit>
+<trans-unit id='006'  resname='IDS_NEXT'><source>EASY</source></trans-unit>
+<trans-unit id='007'  resname='IDS_BUILD'><source>BUILD</source></trans-unit>
+<trans-unit id='008'  resname='IDS_PLAY'><source>PLAY</source></trans-unit>
+<trans-unit id='009'  resname='IDS_GALLERY'><source>GALLERY</source></trans-unit>
+<trans-unit id='010'  resname='IDS_UNAVAILABLE'><source>Coming soon!</source></trans-unit>
+<trans-unit id='011'  resname='IDS_INSTRUCTIONS'><source>INSTRUCTIONS</source></trans-unit>
+<trans-unit id='012'  resname='IDS_TXT_GALLERY'><source>SELECT YOUR LEVEL</source></trans-unit>
+<trans-unit id='013'  resname='IDS_CONGRATULATIONS'><source>Congratulations</source></trans-unit>
+<trans-unit id='014'  resname='IDS_GOAL_BATTLE'><source>BATTLE ALL ENEMIES!</source></trans-unit>
+<trans-unit id='015'  resname='IDS_GOAL_COLLECTBATTLE'><source>COLLECT ALL GEMS\n\n&\n\nBATTLE ALL ENEMIES!</source></trans-unit>
+<trans-unit id='016'  resname='IDS_GOAL_COLLECT'><source>COLLECT ALL GEMS!</source></trans-unit>
+<trans-unit id='017'  resname='IDS_GOAL_DOOR'><source>GET TO THE DOOR!</source></trans-unit>
+<trans-unit id='018'  resname='IDS_YOUR_TURN'><source>Your turn</source></trans-unit>
+<trans-unit id='019'  resname='IDS_SELECT_HERO'><source>Select Your Hero</source></trans-unit>
+<trans-unit id='020'  resname='IDS_PLAY_WITH'><source>Play with</source></trans-unit>
+<trans-unit id='021'  resname='IDS_LOCKED_DATE'><source>Days left until #name_hero# is unlocked: #counter#</source></trans-unit>
+<trans-unit id='022'  resname='IDS_LOCKED_DATE_SINGULAR'><source>Days left until #name_hero# is unlocked: #counter#</source></trans-unit>
+<trans-unit id='023'  resname='IDS_WIN_WITH_HERO_TO_UNLOCK'><source>Win with #unlocked_by#</source></trans-unit>
+<trans-unit id='024'  resname='IDS_CHARACTER_UNLOCKED_ON_WIN'><source>to unlock #name_hero#</source></trans-unit>
+<trans-unit id='025'  resname='IDS_PLAY_THIS_CHARACTER'><source>Play this character on </source></trans-unit>
+<trans-unit id='026'  resname='IDS_ON_CN'><source>www.cartoonnetwork.co.uk</source></trans-unit>
+<trans-unit id='027'  resname='IDS_BACK'><source>BACK</source></trans-unit>
+<trans-unit id='028'  resname='IDS_YOURSCORE'><source>Your time:</source></trans-unit>
+<trans-unit id='029'  resname='IDS_WINEASY'><source>Try a different game</source></trans-unit>
+<trans-unit id='030'  resname='IDS_WINEASY_BUILD'><source>Try a different game or build your own</source></trans-unit>
+<trans-unit id='031'  resname='IDS_WINHARD'><source>You've beaten Hard Mode!</source></trans-unit>
+<trans-unit id='032'  resname='IDS_WINHARD_BUILD'><source>You've beaten Hard Mode! Now go build your own level</source></trans-unit>
+<trans-unit id='033'  resname='IDS_WINGALLERY'><source>NICE! YOU DID IT!</source></trans-unit>
+<trans-unit id='034'  resname='IDS_WINGALLERY_BUILD'><source>NICE! YOU DID IT! NOW BUILD YOUR OWN GAME</source></trans-unit>
+<trans-unit id='035'  resname='IDS_SPECIAL_ABILITY'><source>SPECIAL ABILITY:</source></trans-unit>
+<trans-unit id='036'  resname='IDS_POWERUP'><source>POWER UP ATTACK</source></trans-unit>
+<trans-unit id='037'  resname='IDS_SPACE_BAR'><source>SPACE BAR</source></trans-unit>
+<trans-unit id='038'  resname='IDS_FINN'><source>Finn</source></trans-unit>
+<trans-unit id='039'  resname='IDS_SPECIAL_ABILITY_FINN_TXT'><source>Destroys projectiles</source></trans-unit>
+<trans-unit id='040'  resname='IDS_SPECIAL_ABILITY_POWER_UP_FINN_TXT'><source>Sword Storm</source></trans-unit>
+<trans-unit id='041'  resname='IDS_SPACE_BAR_FINN'><source>Sword Throw</source></trans-unit>
+<trans-unit id='042'  resname='IDS_JUMP_FINN'><source>JUMP\n(press twice to double jump)</source></trans-unit>
+<trans-unit id='043'  resname='IDS_MOVE_RIGHT_FINN'><source>MOVE RIGHT</source></trans-unit>
+<trans-unit id='044'  resname='IDS_MOVE_LEFT_FINN'><source>MOVE LEFT</source></trans-unit>
+<trans-unit id='045'  resname='IDS_MOVE_DOWN_FINN'><source>MOVE DOWN</source></trans-unit>
+<trans-unit id='046'  resname='IDS_JAKE'><source>Jake</source></trans-unit>
+<trans-unit id='047'  resname='IDS_SPECIAL_ABILITY_JAKE_TXT'><source>Multi-jump</source></trans-unit>
+<trans-unit id='048'  resname='IDS_SPECIAL_ABILITY_POWER_UP_JAKE_TXT'><source>Giant Jake</source></trans-unit>
+<trans-unit id='049'  resname='IDS_SPACE_BAR_JAKE'><source>Stretchy Punch</source></trans-unit>
+<trans-unit id='050'  resname='IDS_JUMP_JAKE'><source>JUMP\n(press twice to double jump)</source></trans-unit>
+<trans-unit id='051'  resname='IDS_MOVE_RIGHT_JAKE'><source>MOVE RIGHT</source></trans-unit>
+<trans-unit id='052'  resname='IDS_MOVE_LEFT_JAKE'><source>MOVE LEFT</source></trans-unit>
+<trans-unit id='053'  resname='IDS_MOVE_DOWN_JAKE'><source>MOVE DOWN</source></trans-unit>
+<trans-unit id='054'  resname='IDS_ICEKING'><source>Ice King</source></trans-unit>
+<trans-unit id='055'  resname='IDS_SPECIAL_ABILITY_ICEKING_TXT'><source>Immune to ice beams</source></trans-unit>
+<trans-unit id='056'  resname='IDS_SPECIAL_ABILITY_POWER_UP_ICEKING_TXT'><source>Exploding Snowball</source></trans-unit>
+<trans-unit id='057'  resname='IDS_SPACE_BAR_ICEKING'><source>Ice Bolt</source></trans-unit>
+<trans-unit id='058'  resname='IDS_JUMP_ICEKING'><source>JUMP</source></trans-unit>
+<trans-unit id='059'  resname='IDS_MOVE_RIGHT_ICEKING'><source>MOVE RIGHT</source></trans-unit>
+<trans-unit id='060'  resname='IDS_MOVE_LEFT_ICEKING'><source>MOVE LEFT</source></trans-unit>
+<trans-unit id='061'  resname='IDS_MOVE_DOWN_ICEKING'><source>MOVE DOWN</source></trans-unit>
+<trans-unit id='062'  resname='IDS_FLAMEPRINCESS'><source>Flame Princess</source></trans-unit>
+<trans-unit id='063'  resname='IDS_SPECIAL_ABILITY_FLAMEPRINCESS_TXT'><source>Walks on lava, but can't swim</source></trans-unit>
+<trans-unit id='064'  resname='IDS_SPECIAL_ABILITY_POWER_UP_FLAMEPRINCESS_TXT'><source>Flamethrower</source></trans-unit>
+<trans-unit id='065'  resname='IDS_SPACE_BAR_FLAMEPRINCESS'><source>Fire Ball</source></trans-unit>
+<trans-unit id='066'  resname='IDS_JUMP_FLAMEPRINCESS'><source>JUMP</source></trans-unit>
+<trans-unit id='067'  resname='IDS_MOVE_RIGHT_FLAMEPRINCESS'><source>MOVE RIGHT</source></trans-unit>
+<trans-unit id='068'  resname='IDS_MOVE_LEFT_FLAMEPRINCESS'><source>MOVE LEFT</source></trans-unit>
+<trans-unit id='069'  resname='IDS_MOVE_DOWN_FLAMEPRINCESS'><source>MOVE DOWN</source></trans-unit>
+<trans-unit id='070'  resname='IDS_MARCELINE'><source>Marceline</source></trans-unit>
+<trans-unit id='071'  resname='IDS_SPECIAL_ABILITY_MARCELINE_TXT'><source>Undetected by homing bats</source></trans-unit>
+<trans-unit id='072'  resname='IDS_SPECIAL_ABILITY_POWER_UP_MARCELINE_TXT'><source>Sonic Cyclone</source></trans-unit>
+<trans-unit id='073'  resname='IDS_SPACE_BAR_MARCELINE'><source>Axe Blast</source></trans-unit>
+<trans-unit id='074'  resname='IDS_JUMP_MARCELINE'><source>JUMP</source></trans-unit>
+<trans-unit id='075'  resname='IDS_MOVE_RIGHT_MARCELINE'><source>MOVE RIGHT</source></trans-unit>
+<trans-unit id='076'  resname='IDS_MOVE_LEFT_MARCELINE'><source>MOVE LEFT</source></trans-unit>
+<trans-unit id='077'  resname='IDS_MOVE_DOWN_MARCELINE'><source>MOVE DOWN</source></trans-unit>
+<trans-unit id='078'  resname='IDS_GUNTER'><source>Gunter</source></trans-unit>
+<trans-unit id='079'  resname='IDS_SPECIAL_ABILITY_GUNTER_TXT'><source>Moves fast</source></trans-unit>
+<trans-unit id='080'  resname='IDS_SPECIAL_ABILITY_POWER_UP_GUNTER_TXT'><source>Kitten laser</source></trans-unit>
+<trans-unit id='081'  resname='IDS_SPACE_BAR_GUNTER'><source>Penguin Clone</source></trans-unit>
+<trans-unit id='082'  resname='IDS_JUMP_GUNTER'><source>JUMP</source></trans-unit>
+<trans-unit id='083'  resname='IDS_MOVE_RIGHT_GUNTER'><source>MOVE RIGHT</source></trans-unit>
+<trans-unit id='084'  resname='IDS_MOVE_LEFT_GUNTER'><source>MOVE LEFT</source></trans-unit>
+<trans-unit id='085'  resname='IDS_MOVE_DOWN_GUNTER'><source>MOVE DOWN</source></trans-unit>
+<trans-unit id='086'  resname='IDS_PRINCESSBUBBLEGUM'><source>Princess Bubblegum</source></trans-unit>
+<trans-unit id='087'  resname='IDS_SPECIAL_ABILITY_PRINCESSBUBBLEGUM_TXT'><source>Every third flask explodes</source></trans-unit>
+<trans-unit id='088'  resname='IDS_SPECIAL_ABILITY_POWER_UP_PRINCESSBUBBLEGUM_TXT'><source>Peppermint Charge</source></trans-unit>
+<trans-unit id='089'  resname='IDS_SPACE_BAR_PRINCESSBUBBLEGUM'><source>Lab Flask Lob</source></trans-unit>
+<trans-unit id='090'  resname='IDS_JUMP_PRINCESSBUBBLEGUM'><source>JUMP</source></trans-unit>
+<trans-unit id='091'  resname='IDS_MOVE_RIGHT_PRINCESSBUBBLEGUM'><source>MOVE RIGHT</source></trans-unit>
+<trans-unit id='092'  resname='IDS_MOVE_LEFT_PRINCESSBUBBLEGUM'><source>MOVE LEFT</source></trans-unit>
+<trans-unit id='093'  resname='IDS_MOVE_DOWN_PRINCESSBUBBLEGUM'><source>MOVE DOWN</source></trans-unit>
+<trans-unit id='094'  resname='IDS_BMO'><source>BMO</source></trans-unit>
+<trans-unit id='095'  resname='IDS_SPECIAL_ABILITY_BMO_TXT'><source>Double jump glide</source></trans-unit>
+<trans-unit id='096'  resname='IDS_SPECIAL_ABILITY_POWER_UP_BMO_TXT'><source>Bouncy Bee</source></trans-unit>
+<trans-unit id='097'  resname='IDS_SPACE_BAR_BMO'><source>Joystick Whip</source></trans-unit>
+<trans-unit id='098'  resname='IDS_JUMP_BMO'><source>JUMP</source></trans-unit>
+<trans-unit id='099'  resname='IDS_MOVE_RIGHT_BMO'><source>MOVE RIGHT</source></trans-unit>
+<trans-unit id='100'  resname='IDS_MOVE_LEFT_BMO'><source>MOVE LEFT</source></trans-unit>
+<trans-unit id='101'  resname='IDS_MOVE_DOWN_BMO'><source>MOVE DOWN</source></trans-unit>
+<trans-unit id='102'  resname='IDS_LSP'><source>Lumpy Space Princess</source></trans-unit>
+<trans-unit id='103'  resname='IDS_SPECIAL_ABILITY_LSP_TXT'><source>Double jump to float</source></trans-unit>
+<trans-unit id='104'  resname='IDS_SPECIAL_ABILITY_POWER_UP_LSP_TXT'><source>Rainbow Spew</source></trans-unit>
+<trans-unit id='105'  resname='IDS_SPACE_BAR_LSP'><source>Bindle Smash</source></trans-unit>
+<trans-unit id='106'  resname='IDS_JUMP_LSP'><source>JUMP</source></trans-unit>
+<trans-unit id='107'  resname='IDS_MOVE_RIGHT_LSP'><source>MOVE RIGHT</source></trans-unit>
+<trans-unit id='108'  resname='IDS_MOVE_LEFT_LSP'><source>MOVE LEFT</source></trans-unit>
+<trans-unit id='109'  resname='IDS_MOVE_DOWN_LSP'><source>MOVE DOWN</source></trans-unit>
+<trans-unit id='110'  resname='IDS_GALLERY2'><source>GALLERY</source></trans-unit>
+<trans-unit id='111'  resname='IDS_K'><source>K</source></trans-unit>
+<trans-unit id='112'  resname='IDS_Q'><source>Q</source></trans-unit>
+<trans-unit id='113'  resname='IDS_J'><source>J</source></trans-unit>
+<trans-unit id='114'  resname='IDS_LOCKED_DATE_TOP'><source>LOCKED</source></trans-unit></body></file></xliff>
