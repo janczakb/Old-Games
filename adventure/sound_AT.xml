@@ -1,0 +1,327 @@
+<sounds>
+	<files>
+	  <finn hifi="characters/finn_sound.swf" lofi="">
+		<fxs_player>
+			<_jump_base_finn volume="80" />
+			<_jump_vo1_finn volume="80" />
+			<_jump_vo2_finn volume="80" />
+			<_jump_vo3_finn volume="80" />
+			<_bonus_atk_base_finn volume="50" />
+			<_bonus_def_base_finn volume="50" />
+			<_attack_base_finn volume="80" />
+			<_attack_vo1_finn volume="80" />
+			<_attack_vo2_finn volume="80" />
+			<_attack_vo3_finn volume="80" />
+			<_super_attack_base_finn volume="100" />
+			<_win_base_finn volume="80" />
+			<_lose_base_finn volume="80" />
+			
+			<_bonus_atk_vo_finn volume="50" />
+			<_bonus_def_vo_finn volume="50" />
+			<_super_attack_vo_finn volume="100" />
+			<_win_vo_finn volume="80" />
+			<_lose_vo_finn volume="80" />
+		</fxs_player>
+		<musics_player>
+			<_theme_finn volume="70" />
+		</musics_player>
+	  </finn>
+	  <jake hifi="characters/jake_sound.swf" lofi="">
+		<fxs_player>
+			<_arm_extend_jake volume="50" />
+			<_arm_impact_jake volume="30" />
+			<_arm_destroyed_jake volume="50" />
+			<_jump_base_jake volume="50" />
+			<_jump_vo1_jake volume="80" />
+			<_jump_vo2_jake volume="80" />
+			<_jump_vo3_jake volume="80" />
+			<_bonus_atk_base_jake volume="80" />
+			<_bonus_def_base_jake volume="50" />
+			<_attack_base_jake volume="80" />
+			<_attack_vo1_jake volume="80" />
+			<_attack_vo2_jake volume="80" />
+			<_attack_vo3_jake volume="80" />
+			<_super_attack_base_jake volume="100" />
+			<_win_base_jake volume="80" />
+			<_lose_base_jake volume="80" />
+			
+			<_bonus_atk_vo_jake volume="80" />
+			<_bonus_def_vo_jake volume="50" />
+			<_super_attack_vo_jake volume="100" />
+			<_win_vo_jake volume="80" />
+			<_lose_vo_jake volume="80" />
+		</fxs_player>
+		<musics_player>
+			<_theme_jake volume="70" />
+		</musics_player>
+	  </jake>
+	  <iceking hifi="characters/iceking_sound.swf" lofi="">
+		<fxs_player>
+			<_jump_base_iceking volume="80" />
+			<_jump_vo1_iceking volume="80" />
+			<_jump_vo2_iceking volume="80" />
+			<_jump_vo3_iceking volume="80" />
+			<_bonus_atk_base_iceking volume="80" />
+			<_bonus_def_base_iceking volume="80" />
+			<_attack_base_iceking volume="60" />
+			<_attack_vo1_iceking volume="80" />
+			<_attack_vo2_iceking volume="80" />
+			<_attack_vo3_iceking volume="80" />
+			<_super_attack_base_iceking volume="100" />
+			<_win_base_iceking volume="80" />
+			<_lose_base_iceking volume="80" />
+			
+			<_bonus_atk_vo_iceking volume="80" />
+			<_bonus_def_vo_iceking volume="80" />
+			<_super_attack_vo_iceking volume="100" />
+			<_win_vo_iceking volume="80" />
+			<_lose_vo_iceking volume="80" />
+		</fxs_player>
+		<musics_player>
+			<_theme_iceking volume="70" />
+		</musics_player>
+	  </iceking>
+	  <flameprincess hifi="characters/flameprincess_sound.swf" lofi="">
+		<fxs_player>
+			<_jump_base_flameprincess volume="80" />
+			<_jump_vo1_flameprincess volume="80" />
+			<_jump_vo2_flameprincess volume="80" />
+			<_jump_vo3_flameprincess volume="80" />
+			<_bonus_atk_base_flameprincess volume="40" />
+			<_bonus_def_base_flameprincess volume="80" />
+			<_attack_base_flameprincess volume="80" />
+			<_attack_vo1_flameprincess volume="80" />
+			<_attack_vo2_flameprincess volume="80" />
+			<_attack_vo3_flameprincess volume="80" />
+			<_super_attack_base_flameprincess volume="100" />
+			<_win_base_flameprincess volume="70" />
+			<_lose_base_flameprincess volume="70" />
+			
+			<_bonus_atk_vo_flameprincess volume="40" />
+			<_bonus_def_vo_flameprincess volume="80" />
+			<_super_attack_vo_flameprincess volume="100" />
+			<_win_vo_flameprincess volume="70" />
+			<_lose_vo_flameprincess volume="70" />
+		</fxs_player>
+		<musics_player>
+			<_theme_flameprincess volume="70" />
+		</musics_player>
+	  </flameprincess>
+	  <marceline hifi="characters/marceline_sound.swf" lofi="">
+		<fxs_player>
+			<_jump_base_marceline volume="80" />
+			<_jump_vo1_marceline volume="110" />
+			<_jump_vo2_marceline volume="110" />
+			<_jump_vo3_marceline volume="80" />
+			<_bonus_atk_base_marceline volume="80" />
+			<_bonus_def_base_marceline volume="60" />
+			<_attack_base_marceline volume="80" />
+			<_attack_vo1_marceline volume="80" />
+			<_attack_vo2_marceline volume="80" />
+			<_attack_vo3_marceline volume="80" />
+			<_attack_baseloop_marceline volume="60" />
+			<_super_attack_base_marceline volume="100" />
+			<_win_base_marceline volume="80" />
+			<_lose_base_marceline volume="80" />
+			
+			<_bonus_atk_vo_marceline volume="80" />
+			<_bonus_def_vo_marceline volume="60" />
+			<_super_attack_vo_marceline volume="100" />
+			<_win_vo_marceline volume="80" />
+			<_lose_vo_marceline volume="80" />
+		</fxs_player>
+		<musics_player>
+			<_theme_marceline volume="70" />
+		</musics_player>
+	  </marceline>
+	  <gunter hifi="characters/gunter_sound.swf" lofi="">
+		<fxs_player>
+			<_jump_base_gunter volume="80" />
+			<_jump_vo1_gunter volume="70" />
+			<_jump_vo2_gunter volume="70" />
+			<_jump_vo3_gunter volume="70" />
+			<_bonus_atk_base_gunter volume="50" />
+			<_bonus_def_base_gunter volume="50" />
+			<_attack_base_gunter volume="80" />
+			<_attack_vo1_gunter volume="80" />
+			<_attack_vo2_gunter volume="80" />
+			<_attack_vo3_gunter volume="80" />
+			<_super_attack_base_gunter volume="100" />
+			<_win_base_gunter volume="80" />
+			<_lose_base_gunter volume="80" />
+			
+			<_bonus_atk_vo_gunter volume="50" />
+			<_bonus_def_vo_gunter volume="50" />
+			<_super_attack_vo_gunter volume="100" />
+			<_win_vo_gunter volume="80" />
+			<_lose_vo_gunter volume="80" />
+		</fxs_player>
+		<musics_player>
+			<_theme_gunter volume="150" />
+		</musics_player>
+	  </gunter>
+	  <princessbubblegum hifi="characters/princessbubblegum_sound.swf" lofi="">
+		<fxs_player>
+			<_jump_base_princessbubblegum volume="60" />
+			<_jump_vo1_princessbubblegum volume="80" />
+			<_jump_vo2_princessbubblegum volume="80" />
+			<_jump_vo3_princessbubblegum volume="80" />
+			<_bonus_atk_base_princessbubblegum volume="60" />
+			<_bonus_def_base_princessbubblegum volume="60" />
+			<_attack_base_princessbubblegum volume="80" />
+			<_attack_vo1_princessbubblegum volume="80" />
+			<_attack_vo2_princessbubblegum volume="80" />
+			<_attack_vo3_princessbubblegum volume="80" />
+			<_super_attack_base_princessbubblegum volume="80" />
+			<_win_base_princessbubblegum volume="70" />
+			<_lose_base_princessbubblegum volume="70" />
+			<_attack_explosion_princessbubblegum volume="40" />
+			
+			<_bonus_atk_vo_princessbubblegum volume="60" />
+			<_bonus_def_vo_princessbubblegum volume="60" />
+			<_super_attack_vo_princessbubblegum volume="80" />
+			<_win_vo_princessbubblegum volume="70" />
+			<_lose_vo_princessbubblegum volume="70" />
+		</fxs_player>
+		<musics_player>
+			<_theme_princessbubblegum volume="65" />
+		</musics_player>
+	  </princessbubblegum>
+	  <bmo hifi="characters/bmo_sound.swf" lofi="">
+		<fxs_player>
+			<_jump_base_bmo volume="80" />
+			<_jump_vo1_bmo volume="80" />
+			<_jump_vo2_bmo volume="80" />
+			<_jump_vo3_bmo volume="80" />
+			<_bonus_atk_base_bmo volume="80" />
+			<_bonus_def_base_bmo volume="80" />
+			<_attack_base_bmo volume="70" />
+			<_attack_vo1_bmo volume="70" />
+			<_attack_vo2_bmo volume="70" />
+			<_attack_vo3_bmo volume="70" />
+			<_super_attack_base_bmo volume="80" />
+			<_win_base_bmo volume="80" />
+			<_lose_base_bmo volume="62" />
+			
+			<_bonus_atk_vo_bmo volume="80" />
+			<_bonus_def_vo_bmo volume="80" />
+			<_super_attack_vo_bmo volume="80" />
+			<_win_vo_bmo volume="80" />
+			<_lose_vo_bmo volume="62" />
+		</fxs_player>
+		<musics_player>
+			<_theme_bmo volume="80" />
+		</musics_player>
+	  </bmo>
+	  <lsp hifi="characters/lsp_sound.swf" lofi="">
+		<fxs_player>
+			<_jump_base_lsp volume="80" />
+			<_jump_vo1_lsp volume="80" />
+			<_jump_vo2_lsp volume="80" />
+			<_jump_vo3_lsp volume="80" />
+			<_bonus_atk_base_lsp volume="80" />
+			<_bonus_def_base_lsp volume="80" />
+			<_attack_base_lsp volume="100" />
+			<_attack_vo1_lsp volume="80" />
+			<_attack_vo2_lsp volume="80" />
+			<_attack_vo3_lsp volume="80" />
+			<_super_attack_base_lsp volume="100" />
+			<_win_base_lsp volume="80" />
+			<_lose_base_lsp volume="70" />
+			
+			<_bonus_atk_vo_lsp volume="80" />
+			<_bonus_def_vo_lsp volume="80" />
+			<_super_attack_vo_lsp volume="100" />
+			<_win_vo_lsp volume="80" />
+			<_lose_vo_lsp volume="70" />
+		</fxs_player>
+		<musics_player>
+			<_theme_lsp volume="70" />
+		</musics_player>
+	  </lsp>
+	  <player hifi="player_sound_AT.swf" lofi="">
+	    <fxs_player>
+			<!--release bouton-->
+			<_releaseplayer volume="0" />
+			<!--rollover bouton-->
+			<_rolloverplayer volume="40" />
+			<!--jump-->
+			<_jump volume="0" />
+			<!--open door-->
+			<_opendoor volume="160" />
+			<!--item-->
+			<_item volume="110" />
+			<!--enemy explosion-->
+			<_enemyexplosion volume="60" />
+			<!--crates explosion-->
+			<_crates volume="100" />
+			<!--push crates-->
+			<_pushcrates volume="130" />
+			<!--generation robots-->
+			<_genrobot volume="65" />
+			<!--generator ending-->
+			<_genboom volume="0" />
+			<!-- falling plateform-->
+			<_fallpf volume="37" />
+			<!-- character dies -->
+			<_chardie volume="0" />
+			<!-- enemy shoot-->
+			<_shootenemy volume="110" />
+			<!-- soft shoot impact sound-->
+			<_softimpact volume="0" />
+			<!-- muddy enemy shoots-->
+			<_muddyshoot volume="40" />
+			<!-- muddy enemy dies-->
+			<_muddydie volume="60" />
+			<!-- impact on solid box-->
+			<_clink volume="10" />	
+			<!-- teleports out of game screen (first step)-->
+			<_teleport_out volume="100" />
+			<!-- teleports back in game screen (second step)-->
+			<_teleport_in volume="0" />
+			<!-- HS missile launcher launches a missile-->
+			<_launchmissile volume="100" />
+			<!-- lasers start shooting (one sound played for all)-->
+			<_launchlasers volume="40" />
+			<!--attack powerup-->
+			<_bonusatk volume="80" />			
+			<!--defense powerup-->
+			<_bonusdef volume="85" />					
+	    </fxs_player>
+		<musics_player>
+			<!--tc jingle-->
+			<_tc_vo volume="70" />
+			<_tc_base volume="70" />
+			<!--win jingle-->
+			<_win volume="0" />
+			<!--lose jingle-->
+			<_lose volume="0" />						
+		</musics_player>
+	  </player>
+	  <shell hifi="shell_sound.swf" lofi="">
+	    <fxs_shell>
+			<_releasecards volume="150" />
+			<_rollovercards volume="35" />
+	    </fxs_shell>
+		<musics_shell>
+			<_tcmain volume="60" />
+		</musics_shell>
+	  </shell>
+	</files>
+	<groups>
+		<general volume="75">
+			<builder volume="100">
+				<musics_builder volume="100" />
+				<fxs_builder volume="100" />
+			</builder>
+			<player volume="100">
+				<musics_player volume="60" />
+				<fxs_player volume="100" />
+			</player>
+			<shell volume="100">
+				<musics_shell volume="60" />
+				<fxs_shell volume="100" />
+			</shell>
+		</general>
+	</groups>
+</sounds>
